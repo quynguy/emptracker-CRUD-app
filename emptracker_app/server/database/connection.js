@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const MONGO_URI = 'mongodb+srv://admin:admin1234@cluster0.qesozqf.mongodb.net/EMPTrackerApp?retryWrites=true&w=majority'
 
 const connectDB = async () => {
     try {
@@ -7,13 +8,14 @@ const connectDB = async () => {
             useNewUrlParser: true,
             useUnifiedTopology: true,
             useFindAndModify: false,
-            useCreateIndex: true
-        })
-        console.log(`MongoDB Connected: ${con.connection.host}`)
-    }catch(err)
+            useCreateIndex: true,
+        });
+
+        console.log(`MongoDB Connected: ${con.connection.host}`);
+    }catch(err){
         console.log(err);
         process.exit(1);
     }
-}
+};
 
 module.exports = connectDB;
