@@ -16,7 +16,7 @@ Languages Used: JavaScript, HTML & CSS
 
 
 Application: EMP Tracker - CRUD APPLICATION <br>
-Employee management system enabling the main user to create, read, edit, and delete vital employee information, including name, contact details, department, and position.
+Employee management system enabling the main user to create, read, edit, and delete vital employee information, including name & contact details.
 
 <br>
 User Stories:
