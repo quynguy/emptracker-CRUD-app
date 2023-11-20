@@ -12,6 +12,9 @@ Languages Used: JavaScript, HTML & CSS
 
 <br>
 
+![image](https://github.com/quynguy/emptracker-CRUD-app/assets/106893103/e5995ece-8e07-46c7-b660-97180d8e8cb3)
+
+
 Application: EMP Tracker - CRUD APPLICATION <br>
 Employee management system enabling the main user to create, read, edit, and delete vital employee information, including name, contact details, department, and position.
 
