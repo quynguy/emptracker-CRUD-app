@@ -25,7 +25,7 @@ User Stories:
 Create
 
 1. As a user, I want to be able to add new employees into the system.
-2. As a user, I want to be able to add basic information such as name, contact details, department and position.
+2. As a user, I want to be able to add basic information such as name, contact details, gender & active status.
 3. As a user, I want to be able to see a unique ID generated for each new entry.
 
 
