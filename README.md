@@ -11,6 +11,11 @@ NoSQL database: MongoDB <br>
 Languages Used: JavaScript, HTML & CSS
 
 <br>
+
+Application: EMP Tracker - CRUD APPLICATION <br>
+Employee management system enabling the main user to create, read, edit, and delete vital employee information, including name, contact details, department, and position.
+
+<br>
 User Stories:
 <br> <br>
 
@@ -36,19 +41,3 @@ Delete:
 3. As a user, I want to be able to see an archived of previous employees.
 
 <br>
-Read <br>
-1. As a user, I want to be able to view a list of employees in my department. <br>
-2. As a user, I want to be able to see my employee's essential information. <br>
-3. As a user, I want to be able to search for a specific employee. <br>
-
-<br>
-Update:
-<br>
-1. As a user, I want to be able to update employee information. <br>
-2. As a user, I want to see the system logging the date & time of when an employee's information has been modified. <br>
-
-<br>
-Delete: <br>
-1. As a user, I want to be able to remove an employee from the system. <br>
-2. As a user, I want to be prompted on screen to confirm changes being made to avoid accidental deletions. <br>
-3. As a user, I want to be able to see an archived of previous employees. <br>
